@@ -39,7 +39,7 @@ Use an <animation-list> in a drawable resource for the frame-by-frame animation.
 Screenshots
 Splash Screen
 
-![image alt]()
+![image alt](https://github.com/balajibalu67bgm-create/MAD_23012531071_PRACTICAL6/blob/5730c805d0cbbbc6791fd52b7cbb0ab50403d748/Screenshot%202025-11-29%20111721.png)
 
 Main Activity
 
